@@ -3,8 +3,6 @@
 A terminal-inspired daily dashboard that automatically appears when your computer starts.  
 It displays your notes, weather updates, and upcoming reminders — all in a clean, retro terminal interface.
 
----
-
 ![Screenshot1](images/photo.png)
 
 ## ✨ Features
